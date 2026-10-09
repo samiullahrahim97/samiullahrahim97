@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Samiullah Rahim 👋
 
-<!--
-**samiullahrahim97/samiullahrahim97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Web Developer** | 📰 **Founder of BuzzDaily**
 
-Here are some ideas to get you started:
+I build modern, fast, premium websites — news portals, business sites and landing pages that look world-class.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- HTML5 · CSS3 · JavaScript
+- Responsive Design (mobile-first)
+- SEO Optimization & Google Search Console
+- Contact Forms & Newsletter Integration
+- Git · GitHub · Netlify Deployment
+
+---
+
+## 📌 Featured Project
+
+### 📰 [BuzzDaily](https://dailybuzz-news.netlify.app) — US/UK Entertainment News
+A live, premium news website with:
+- ✅ Working contact form & newsletter signup
+- ✅ Reading progress bar, site search, smooth animations
+- ✅ Google Search Console verified + sitemap submitted
+- ✅ Auto-deployed from GitHub to Netlify
+
+---
+
+## 📫 Let's Work Together
+
+- 🌍 Portfolio: [dailybuzz-news.netlify.app](https://dailybuzz-news.netlify.app)
+- 💼 Available for freelance projects on Fiverr
+
+⭐ *I build premium websites that turn visitors into customers.*
